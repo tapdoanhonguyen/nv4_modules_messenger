@@ -1,0 +1,25 @@
+/**
+ * @Project NUKEVIET 4.x
+ * @Author mynukeviet (contact@mynukeviet.net)
+ * @Copyright (C) 2016 mynukeviet. All rights reserved
+ * @Createdate Wed, 13 Jul 2016 00:05:30 GMT
+ */
+.ajax-load-qa {
+	background: url("../images/messenger/loading.gif") no-repeat center
+		center rgba(255, 255, 255, 0.5);
+	position: fixed;
+	z-index: 9999999999;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.tab-content .note {
+	margin-top: 15px
+}
+
+.tab-content .note label {
+	font-weight: bold;
+	width: 140px
+}
